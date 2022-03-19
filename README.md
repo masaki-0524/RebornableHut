@@ -8,8 +8,9 @@
 ### Fox
 ### LunchBox
 ### Human
-### OpenNest:部材配置に使用
-To layout pices for sheets
-### Metahopper:Grasshopperファイルの体裁を整えるために使用
-### Bifocals:コンポーネント名を表示
-To display components name
+### OpenNest
+部材配置に使用, To layout pices for sheets
+### Metahopper
+Grasshopperファイルの体裁を整えるために使用
+### Bifocals
+コンポーネント名を表示, To display components name
