@@ -14,3 +14,5 @@
 Grasshopperファイルの体裁を整えるために使用
 ### Bifocals
 コンポーネント名を表示, To display components name
+
+(作成中)
