@@ -1,6 +1,6 @@
 # RebornableHut
 このリポジトリは2021年度環境建築設計特論の授業において、パビリオンを製作するために作成したGrasshopperファイルをまとめたものであり、この授業のプロジェクトブックは以下のリンクにあります。  
-This repository is for the pavilion that was done at the Kagoshima University's class, Advanced Environmental Architecture Design. And, there are grasshopper files for making this pavilion and a rhinoceros file for the 3D model in this repository. The link to this project book is cited below. 
+This repository is for the pavilion that was done at the Kagoshima University's class, Advanced Environmental Architecture Design. And, there are grasshopper files for making this pavilion and a rhinoceros file for the 3D model in this repository. The link to this project book is cited below.  
 https://issuu.com/kagoshimaunieal/docs/2022_environmental_architecture_design_studio
 
 ## Pavilion (パビリオン)
